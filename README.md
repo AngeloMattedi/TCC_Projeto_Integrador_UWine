@@ -1,9 +1,14 @@
 # TCC_Projeto_Integrador_UWine (segunda parte)
 
-Projeto de TCC utilizando Machine Learning para:
-- Classificação
-- Regressão
-- Clusterização
+## Objetivo
+- Responder perguntas do negócio para que os gestores possam tomar as melhores decisões.
+
+Para isso, na parte 1 trabalhamos com a estatística ao nosso favor para chegar ao tamanho da amostra ideal para trabalharmos com o machine learning.
+
+Nessa segunda parte, foram aplicadas várias técnicas para obter os melhores modelos dos tipos abaixo:
+- Classificador
+- Regressor
+- Clusterizador
 
 ## Tecnologias
 - Python
