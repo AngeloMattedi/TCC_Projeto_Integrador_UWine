@@ -30,8 +30,8 @@ Nessa segunda parte, foram aplicadas várias técnicas para obter os melhores mo
 
 
 ## Estrutura
-- notebooks/ → análises e modelos
-- data/ → datasets
+- notebooks/ (análises e modelos)
+- data/ (datasets e outros arquivos utilizados no projeto)
 
 
 ## Autor
