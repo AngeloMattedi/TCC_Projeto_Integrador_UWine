@@ -10,6 +10,7 @@ Nessa segunda parte, foram aplicadas várias técnicas para obter os melhores mo
 - Regressor
 - Clusterizador
 
+
 ## Tecnologias
 - Python
 - Pandas
@@ -19,9 +20,11 @@ Nessa segunda parte, foram aplicadas várias técnicas para obter os melhores mo
 - Seaborn
 - NumPy
 
+
 ## Estrutura
 - notebooks/ → análises e modelos
 - data/ → datasets
+
 
 ## Autor
 Angelo da Silva Mattedi
