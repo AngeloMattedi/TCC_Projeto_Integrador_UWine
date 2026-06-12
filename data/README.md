@@ -1,3 +1,3 @@
-# Datasets do projeto
+# Dados do projeto
 
-Esta pasta contém os datasets utilizados neste projeto.
+Esta pasta contém os datasets e outros arquivos utilizados neste projeto.
